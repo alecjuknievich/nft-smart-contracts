@@ -1,0 +1,14 @@
+{
+  "name": "nft-smart-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for efficient nft mints",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alec Juknievich",
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "erc721a": "^3.2.0"
+  }
+}
